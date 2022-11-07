@@ -1,0 +1,82 @@
+
+body{
+  background-color: #f3eaeab2;
+}
+.button {
+  background-color: #f1f1f1; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 20px;
+  height :fit-content;
+  width: 8%;
+  
+font-weight: bold;
+  
+}
+
+
+.mainArr{
+
+
+  display: flex;
+  flex-direction: column;
+
+  
+  width:80vw;
+ 
+  gap: 20px;
+ margin-left: 160px;
+ margin-top: 30px;
+ border-radius: 20px;
+ 
+ 
+ justify-content: space-between;
+ padding: 10px;
+
+}
+
+.daysArr{
+
+
+  display:flex;
+  
+
+  gap: 60px;
+ margin-left: 6px;
+ margin-top: 30px;
+ border-radius: 20px;
+ 
+ background-image: linear-gradient( 135deg, #A0FE65 10%, #FA016D 100%);
+ justify-content: space-around;
+ padding: 10px;
+}
+.dateArr{
+ 
+  background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  
+ margin-left: 50%;
+ 
+ 
+ border-radius: 20px;
+ 
+
+ padding: 10px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
